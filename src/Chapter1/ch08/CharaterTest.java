@@ -1,4 +1,4 @@
-package ch08;
+package Chapter1.ch08;
 
 class CharaterTest {
 

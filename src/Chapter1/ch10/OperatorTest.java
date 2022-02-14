@@ -1,4 +1,4 @@
-package ch10;
+package Chapter1.ch10;
 
 public class OperatorTest {
     public static void main(String[] args) {

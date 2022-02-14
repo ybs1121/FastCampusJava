@@ -1,4 +1,4 @@
-package ch07;
+package Chapter1.ch07;
 
 public class DoubleTest {
     public static void main(String[] args) {
