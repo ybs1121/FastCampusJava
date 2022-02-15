@@ -5,6 +5,18 @@ public class Student {
     String studentName;
     String address;
 
+    public Student(){
+        this.studentId = 0;
+        this.studentName = "studentName";
+        this.address = "address";
+    }
+
+    public Student(int studentId, String studentName, String address) {
+        this.studentId = studentId;
+        this.studentName = studentName;
+        this.address = address;
+    }
+
     public void showStudentInfo(){
         System.out.println(studentId+" "+ studentName+" "+address);
     }
