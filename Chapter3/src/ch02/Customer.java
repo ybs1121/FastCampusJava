@@ -14,6 +14,11 @@ public class Customer {
         System.out.println("Cus");
     }
 
+    public void test(){
+        System.out.println("customer");
+
+    }
+
 
     public int getCustomerID() {
         return customerID;

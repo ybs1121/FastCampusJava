@@ -14,6 +14,12 @@ public class VIPCustomer extends Customer {
     }
 
     public void test(){
+        System.out.println("VIPcustomer");
+
+    }
+
+    public void test2(){
+        System.out.println("VIPcustomer2");
 
     }
 
