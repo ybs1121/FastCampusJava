@@ -1,0 +1,10 @@
+package ch03;
+
+public class StringTest {
+    public static void main(String[] args) {
+        String java = new String("java");
+        String android = new String("android");
+
+        java = java.concat(android);
+    }
+}
